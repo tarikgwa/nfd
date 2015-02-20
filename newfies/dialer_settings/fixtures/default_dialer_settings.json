@@ -1,0 +1,24 @@
+[
+   {
+      "pk":1,
+      "model":"dialer_settings.dialersetting",
+      "fields":{
+         "max_subr_cpg":1000000,
+         "blacklist":"",
+         "sms_maxretry":1,
+         "updated_date":"2013-12-10T15:32:53.395Z",
+         "name":"DS1",
+         "sms_max_number_subscriber_campaign":1000000,
+         "callmaxduration":1800,
+         "whitelist":"",
+         "max_cpg":100,
+         "maxretry":1,
+         "created_date":"2013-12-10T15:32:53.395Z",
+         "max_frequency":5000,
+         "max_contact":1000000,
+         "sms_max_frequency":5000,
+         "sms_max_number_campaign":100,
+         "max_calltimeout":45
+      }
+   }
+]
