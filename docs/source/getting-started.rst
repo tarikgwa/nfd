@@ -6,7 +6,7 @@ Getting Started
 
 :Web: http://www.newfies-dialer.org/
 :Download: http://www.newfies-dialer.org/download/
-:Source: https://github.com/Star2Billing/newfies-dialer/
+:Source: https://github.com/tarikgwa/nfd/
 :Keywords: dialer, voip, freeswitch, django, asynchronous, rabbitmq, redis, python, distributed
 
 

@@ -78,7 +78,7 @@ $ cd install/celery-init/etc/default/
 
    Init script: `celeryd`_.
 
-   .. _celeryd: https://github.com/Star2Billing/newfies-dialer/raw/master/install/celery-init/etc/init.d/celeryd
+   .. _celeryd: https://github.com/tarikgwa/nfd/raw/master/install/celery-init/etc/init.d/celeryd
 
    Usage : /etc/init.d/celeryd {start|stop|force-reload|restart|try-restart|status}::
 
@@ -114,7 +114,7 @@ $ cd install/celery-init/etc/default/
 
    Init script: `celerybeat`_
 
-   .. _celerybeat: https://github.com/Star2Billing/newfies-dialer/raw/master/install/celery-init/etc/init.d/celerybeat
+   .. _celerybeat: https://github.com/tarikgwa/nfd/raw/master/install/celery-init/etc/init.d/celerybeat
 
    Usage:	/etc/init.d/celerybeat {start|stop|force-reload|restart|try-restart|status}::
 
